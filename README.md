@@ -20,7 +20,7 @@ Several texts from the Translation Corpus have been transcribed by volunteers fr
 |8|Descartes|Eerste gedachten ontrent de voortteelinge der dieren (‘VdD’, 1692)|Primae Cogitationes circa Generationem Animalium (1701)|Stephan Blankaart|Jan Claesz. ten Hoorn|
 |9|Descartes|Korte verhandelinge van de smaken (‘KVS’, 1692)|De Saporibus (1701)|Stephan Blankaart|Jan Claesz. ten Hoorn|
 |10*|Hobbes|Leviathan: of van de stoffe, gedaente, ende magt van de kerckelycke ende wereltlycke regeeringe (‘LEVIATHAN’, 1667)|Leviathan, or, The Matter, Form, and Power of a Common-Wealth Ecclesiastical and Civil (1651)|Abraham van Berkel|Jacobus Wagenaar|
-|11|Spinoza|Korte verhandeling van God, de mensch en deszelvs welstand (‘KV’, ?)|(lost)|Pieter Balling (i.a.)|(unpublished)|
+|11^|Spinoza|Korte verhandeling van God, de mensch en deszelvs welstand (‘KV’, ?)|(lost)|Pieter Balling (i.a.)|(unpublished)|
 |12|Spinoza|Renatus des Cartes beginzelen der wysbegeerte I en II deel, na de meetkonstige wijze beweezen (‘RDBW’, 1664)|Principia philosophiae cartesianae (1663)|Pieter Balling|Jan Rieuwertsz|
 |13|Spinoza|Aanhangzel overnatuurkundige gedachten (‘AOG’, 1664)|Cogitata Metaphysica (1663)|Pieter Balling|Jan Rieuwertsz|
 |14|Spinoza|Zedekunst, in vijf delen onderscheiden (‘ZEDEKUNST’, 1677)|Ethica, ordine geometrico demonstrata (1677)|Jan Hendriksz Glazemaker & Pieter Balling|Jan Rieuwertsz|
@@ -29,6 +29,7 @@ Several texts from the Translation Corpus have been transcribed by volunteers fr
 |17|Spinoza|Brieven van verscheide geleerde mannen aan B.D.S met des zelfs antwoort (‘BRIEVEN’, 1677)|Epistolae Doctorum Quorundam Virorum ad B.D.S. et Auctoris Responsiones (1677)|Jan Hendriksz Glazemaker (i.a.)|Jan Rieuwertsz|
 |18|Spinoza|De rechtzinnige theologant, of Godgeleerde staatkundige verhandelinge (‘DRT’, 1693)|Tractatus Theologico-Politicus (1670)|Jan Hendriksz Glazemaker (i.a.)|(unknown)|
 
+^ The text was borrowed from the edition by Rikus Koops and is not free from copyright.
 
 ## The Adaptation Corpus
 |no.| Author|Title (abbreviation, first published) |Publisher|
@@ -47,5 +48,6 @@ Several texts from the Translation Corpus have been transcribed by volunteers fr
 |12|Bernard Nieuwentijt|Het regt gebruik der werelt beschouwingen, ter overtuiginge van ongodisten en ongelovigen aangetoont (‘HRGdW’, 1715)|Widow of Joannes Wolters and Joannes Pauli III|
 
 ** The text was borrowed from the edition by Michel Wielema and can be downloaded from: https://eur.academia.edu/MichielWielema
+
 *** The text was borrowed from the edition by Gerardine Maréchal and can be downloaded from: https://www.dbnl.org/tekst/duij002leve01_01/colofon.php
 
