@@ -31,3 +31,21 @@ Several texts from the Translation Corpus have been transcribed by volunteers fr
 
 
 ## The Adaptation Corpus
+|no.| Author|Title (abbreviation, first published) |Publisher|
+| ----------- | ----------- | ----------- |----------- |
+|1|Pieter Balling|Het licht op den kandelaar. Dienende, tot opmerkinge van de voornaamste dingen; in het boekje genaamt De verborgentheden van het rijke Ghodts [...] door William Ames (‘LodK’, 1662)|For the author|
+|2|Lodewijk Meijer|De philosophie d’ uytleghster der H. Schrifture (‘PUdHS’, 1667)|(unknown)|
+|3**|Adriaan Koerbagh|Een ligt schijnende in duystere plaatsen, om te verligten de voornaamste saaken der gods-geleertheyd en gods-dienst (‘EenLigt’, 1668)|For the author|
+|4|Adriaan Koerbagh|Een bloemhof van allerley lieflijkheyd sonder verdriet (‘Bloemhof’, 1668)|For the author|
+|5|Abu Jaafar Ebn Tophail (trans. Johannes Bouwmeester)|Het leeven van Hai Ebn Yokdhan (‘HEY’, 1672)|Jan Rieuwertsz|
+|6|Stephan Blankaart|De Kartesiaanse academie ofte institutie der medicyne (‘KA’, 1683)|Jan Claesz ten Hoorn|
+|7|Baltasar Bekker|De betoverde weereld (‘DBW’, 1691)|Daniël van Dalen|
+|8***|Johannes Duijkerius|Het leven van Philopater, opgewiegt in Voetiaensche talmeryen (‘PhilopaterI’, 1691)|Aart Wolsgrein|
+|9***|Johannes Duijkerius|Vervolg van ’t Leven van Philopater geredded uit de verborgentheeden der Coccejanen (‘PhilopaterII’, 1697)|Aart Wolsgrein|
+|10|Fredericus van Leenhof|Den hemel op aarden; of Een korte en klaare beschrijvinge van de waare en stantvastige blydschap (‘DHoA’, 1703)|Barent Hakvoord|
+|11|Various|Verscheide gedigten soo voor als tegen den Hemel op aarde gefatsoeneert van do. F. van Leenhof. Naar de gronden van B.D.S (‘VGHoABDS’, 1704)|Gerardus Borstius|
+|12|Bernard Nieuwentijt|Het regt gebruik der werelt beschouwingen, ter overtuiginge van ongodisten en ongelovigen aangetoont (‘HRGdW’, 1715)|Widow of Joannes Wolters and Joannes Pauli III|
+
+** The text was borrowed from the edition by Michel Wielema and can be downloaded from: https://eur.academia.edu/MichielWielema
+*** The text was borrowed from the edition by Gerardine Maréchal and can be downloaded from: https://www.dbnl.org/tekst/duij002leve01_01/colofon.php
+
