@@ -6,7 +6,7 @@ This folder contains the two main subcorpora collected and used for my PhD thesi
 This archive contains the raw .txt-files. Send me an e-mail if you would like to use a version with annotations of lay-out and marginal notes. 
 
 ## The Translation Corpus
-Several texts from the Translation Corpus have been transcribed by volunteers from the Stichting Vrijwilligersnetwerk Nederlandse Taal directed by Nicoline van der Sijs and Hans Beelen. All texts transcribed by the Stichting are marked with an asterisk. All volunteers who contributed to this project are credited in the Acknowledgments.
+Several texts from the Translation Corpus have been transcribed by volunteers from the Stichting Vrijwilligersnetwerk Nederlandse Taal directed by Nicoline van der Sijs and Hans Beelen. All texts transcribed by the Stichting are marked with an asterisk. All volunteers who contributed to this project are credited in the Acknowledgments of my PhD thesis.
 
 |no.| Author|Title (abbreviation, first published) |Source (first published)|Translator|Publisher|
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |
